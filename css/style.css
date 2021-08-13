@@ -1,0 +1,35 @@
+.shop-background {
+    background-color: #FEEAE9;
+    border-radius: 20px !important;
+}
+
+.buy-now-btn {
+
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.cat-1 .cat-2 .cat-3 {
+    border: none;
+    border-radius: 150px;
+
+}
+
+.cat-1 {
+    background-color: orange;
+}
+
+.cat-2 {
+    background-color: orchid;
+}
+
+.cat-3 {
+    background-color: blue;
+}
+
+.cat-font-color {
+    color: white;
+}
